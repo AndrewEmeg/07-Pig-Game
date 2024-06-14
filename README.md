@@ -4,11 +4,7 @@ This project is one of the many projects in my current JavaScript course on Udem
 
 This is the [JavaScript Course](https://www.udemy.com/share/101Wfe/)
 
-Hey everyone! 🌟<br>
 
-I've got another cool project to share from my JavaScript course: the 'Pig Game'! 🎲🐷<br>
-
-Not familiar with it? Let me give you a quick rundown:<br>
 
 ## **INSTRUCTIONS:**<br>
 ✅ The game of Pig is a super simple but thrilling dice game where two players race to reach 100 points. 🎯<br>
