@@ -10,11 +10,11 @@ I've got another cool project to share from my JavaScript course: the 'Pig Game'
 
 Not familiar with it? Let me give you a quick rundown:<br>
 
-**INSTRUCTIONS:**<br>
+## **INSTRUCTIONS:**<br>
 ✅ The game of Pig is a super simple but thrilling dice game where two players race to reach 100 points. 🎯<br>
 ✅ On each turn, a player rolls a die repeatedly until either they roll a 1 or they decide to hold and score the sum of their rolls (the turn total). It's edge-of-your-seat exciting every time! 😬<br>
 
-**Here’s the deal:**<br>
+## **Here’s the deal:**<br>
 🎲 **Roll the die:**<br>
 1️⃣ Roll a 1: Your turn ends, and you score nothing. It’s your opponent's turn now. 😞<br>
 2️⃣ Roll a 2-6: The number is added to your turn total, and you can keep rolling. 🎉<br>
