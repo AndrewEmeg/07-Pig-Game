@@ -53,7 +53,7 @@ const switchPlayer = function () {
     if (!breakingForOne) {
       totalScore0 += currentScore;
       totalScore0El.textContent = totalScore0;
-      if (totalScore0 >= 20) {
+      if (totalScore0 >= 100) {
         endGame();
         return;
       }
@@ -66,7 +66,7 @@ const switchPlayer = function () {
     if (!breakingForOne) {
       totalScore1 += currentScore;
       totalScore1El.textContent = totalScore1;
-      if (totalScore1 >= 20) {
+      if (totalScore1 >= 100) {
         endGame();
         return;
       }
