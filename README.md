@@ -22,7 +22,7 @@ Not familiar with it? Let me give you a quick rundown:<br>
 
 You can play with a friend or just play solo, imagining yourself as two players. 😆<br>
 
-Curious to see how it works? Dive into the fun and give it a go on Netlify: [https://lnkd.in/g-Wd_tCc]([https://lnkd.in/g-Wd_tCc](https://andrew-emeghebo-pig-game.netlify.app/))<br>
+Curious to see how it works? Dive into the fun and give it a go on [Netlify]([https://lnkd.in/g-Wd_tCc](https://andrew-emeghebo-pig-game.netlify.app/))<br>
 
 Enjoy the game and let me know how you do! 🚀💯<br>
 
